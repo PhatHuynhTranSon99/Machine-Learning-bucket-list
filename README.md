@@ -8,7 +8,8 @@ A list containing all the projects I want to complete to get a job in Machine Le
 - [ ] Machine Learning algorithms from scratch
 - [ ] Machine Learning blog
 - [ ] Machine Learning cheatsheet (a website or a pdf file)
-- [ ] Word2Vec from scratch (English and Vietnamese datasets)
+- [x] Word2Vec from scratch (English - done and Vietnamese dataset - to be completed)
+- [ ] Text generation using Recurrent Neural Networks
 - [ ] Dependency parsing (English and Vietnamese datasets)
 - [ ] A stunning CV
 
