@@ -10,6 +10,7 @@ A list containing all the projects I want to complete to get a job in Machine Le
 - [ ] Machine Learning cheatsheet (a website or a pdf file)
 - [x] Word2Vec from scratch (English - done and Vietnamese dataset - to be completed)
 - [x] Text generation using Recurrent Neural Networks
+- [ ] English to Vietnamese Neural Machine Translation (Up next)
 - [ ] Dependency parsing (English and Vietnamese datasets)
 - [ ] A stunning CV
 
